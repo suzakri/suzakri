@@ -2,4 +2,4 @@
 
 - 🕷️ Exploit and Malware Enjoyer
 - 🔍 Detection Enthusiast
-- 🔬 Always learning more about Windows internals
+- 🔬 Always learning more about Windows Internals
